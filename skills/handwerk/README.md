@@ -1,7 +1,7 @@
 # Handwerk
 
 Die Handwerksspezialisierungen bestehen vor allem aus handwerklichen Fertigkeiten und müssen oft durch einen Lehrmeister oder ein Lehrbuch erlernt werden.
-
+## Übersicht
 | **Bezeichnung** | **Effekt** |
  | --- | --- | 
 | **Verschiedenes** | Verschiedene, wenig abenteuer-relevante Fertigkeiten, wie Musizieren, Kunstmalerei und mehr |
@@ -17,9 +17,9 @@ Die Handwerksspezialisierungen bestehen vor allem aus handwerklichen Fertigkeite
 
 (+) = Benötigt einen Lehrer oder Lehrmaterial (wie ein Lehrbuch), um erlernt zu werden.
 
-Verschiedenes
+## Verschiedenes
+### Fähigkeiten
 
-**Ermöglicht / erweitert:** Musik, Malerei, Segeln, Mathematik, etc.
 
 | **Bezeichnung** | **Effekt** | | **LV** |
 | --- | --- | --- | --- |
@@ -38,8 +38,7 @@ Verschiedenes
 |  **Beherrschung: Segeln**  ||  |  **0**  |
 | **Segeln (Befähigung)** | **Das Lenken und auch Kommandieren eines Segelbootes oder Schiffes, in ziviler wie militärischer Anwendung.** Kompetenz: Lenken: Athletik (AT), Navigieren: Konzentration (KE) |
 
-Zusätzlich
-
+### Spezialisierungen
 **WICHTIG:** Zusätzliche Spezialisierungen benötigen keinen Fertigkeitspunkte und müssen ähnlich einer Kunde „abgearbeitet&quot; werden. (Siehe hierzu Tätigkeiten: Erlernen)
 
 
@@ -54,7 +53,7 @@ Zusätzlich
 |  **Beherrschung: Schwimmen**  |  **Gewährt die Fähigkeit, zu schwimmen:**  | **80** |  **0**  |
 | Schwimmen | Gewährt die Fähigkeit, zielsicher zu schwimmen und zu tauchen. |
 
-Tätigkeiten: Verschiedenes
+### Tätigkeiten
 
 | **Tätigkeit** | **Effekt** | **Tasche** | **Verbraucht** |
 | --- | ---| --- | ----|
@@ -63,8 +62,8 @@ Tätigkeiten: Verschiedenes
 | Literatur | Der Charakter schreibt eine Tageszeit lang – an unterschiedlichen Werken mit unterschiedlichen Effekten:Tagebucheintrag: Kann bis zu zwei Stresspunkte abbauen (SG 20, 30).Gedicht / Märchen: Ein SG (BW gegen variablen SG, meist 25) entscheidet, wie gut das Ergebnis ausfällt.Roman: Muss ähnlich einer Kunde abgearbeitet werden, wobei der Charakter hier selbst über die Länge entscheiden kann. Jedes Kapitel wird einzeln geschrieben (KE gegen SG 25) und ergibt am Ende einen Gesamtwert. | Schreibzeug | 1 Ladung |
 | Musizieren | Der Charakter macht Musik. Er singt und / oder spielt eine einstudierte Melodie auf einem Instrument. Singen wird hierbei auf Basis von Rhetorik (RH) berechnet, ein Instrument zu spielen basiert auf Fingerfertigkeit (FF).Allein: Kein Leistungsdruck, kann 1 Stress abbauen (SG 20).Am Lager: Ein neues Lied kann bis zu 2 Stress abbauen (SG 20, 25), ein bekanntes 1 Stress (SG 20).Vor Publikum: In der Taverne oder auf einem Dorfplatz kann Musik durchaus lukrativ sein, besonders wenn der Charakter von einem Wirt oder Veranstalter eingeladen wurde oder schwierige Lieder beherrscht: FF oder RH gegen SG.Hinweis: Lieder müssen ähnlich Trankrezepten oder Blaupausen erlernt werden. | Bei Bedarf ein Instrument | 1 Stamina (EN) |
 
-Alchemie
-
+## Alchemie
+### Fähigkeiten
 | **Bezeichnung** | **Effekt** | | **LV** |
 | --- | --- | --- | --- |
 | **Alchemie (Befähigung)** | **Ermöglicht die Herstellung von Medikamenten, Tränken, Giften, Elixieren, aber auch Bomben und diverse Chemikalien.** Kompetenz: Konzentration (KE)HINWEIS: LV 1 muss durch einen Lehrmeister oder Lehrmaterial (wie ein Buch) angelernt werden. |
@@ -89,7 +88,7 @@ Alchemie
 | Expertise | Ermöglicht, Rezepte während des Schaffens „nochmalig&quot; zu erlernen, wobei diese nun einen EL-SG von 20 haben. Anschließend kann das Erzeugnis nicht mehr in der Herstellung scheitern. (Markierung im Erweiterungsbogen: Ein Sternchen\* hinter dem Rezept.) |
 | „Chemische Analyse&quot; (T) | Tätigkeit: Der Charakter analysiert einen Stoff (wie eine Flüssigkeit oder ein Pulver) auf seine Wirkung und Funktion. (Siehe Tätigkeiten) |
 
-Aktionen: Alchemie
+### Aktionen:
 
 | **Fähigkeit** | **EN** | **ZZ** | **Effekt** | **Bedingung(en)** |
 | --- | --- | --- | --- | --- |
@@ -103,9 +102,10 @@ Tätigkeiten: Alchemie
 | Brauen | Der Charakter stellt ein alchemisches Erzeugnis her, wie einen Trank oder eine Bombe:Konzentration (KE) gegen jeweiligen SG. | Alchemiekasten | 1 Ladung |
 | Chemische Analyse | Der Charakter analysiert eine Substanz (wie einen Trank, eine Flüssigkeit, ein Pulver, ein Kraut, aber auch Fleisch oder ein Mineral) auf seine chemische Zusammensetzung, mögliche Effekte, potenzielle Wirkung und mehr: VS gegen meist niedrigen SG. So kann er bspw. die Wirkung eines unbekannten Tranks präzise eruieren oder ein Kraut auf seine Verwendbarkeit testen. Während einer Tätigkeit kann er bis zu 10 Stoffe testen. | Alchemiekasten | 1 Ladung |
 
-Verstohlenheit
+## Verstohlenheit
 
 **Ermöglicht / erweitert:** Taschendiebstahl (Fertigkeit), Schlossknacken (Befähigung)
+### Fähigkeiten
 
 | **Bezeichnung** | **Effekt** | | **LV** |
 | --- | --- | --- | --- |
@@ -133,7 +133,7 @@ Verstohlenheit
 | „Langfinger&quot; | Der Schurke stiehlt oder unterjubelt ein Objekt bis SG 20. (Siehe Aktionen) |
 | „Trickbetrügerei&quot; (T) | Tätigkeit: Der Schurke verdient etwas Geld durch Trickbetrug. (Siehe Tätigkeiten) |
 
-## Aktionen: Fingerfertigkeit
+### Aktionen
 
 | **Fähigkeit** | **EN** | **ZZ** | **Effekt** | **Bedingung(en)** |
 | --- | --- | --- | --- | --- |
@@ -146,14 +146,14 @@ Verstohlenheit
 | Langfinger | 1 | 1-2 | Der Schurke stiehlt ein Ziel bis SG 25 ohne dafür werfen zu müssen. Funktioniert auch andersherum, indem er Dinge in die Taschen oder Möbel anderer hineinschmuggelt. | - |
 | Leerstehlen | 3 | / | Erweitert einen Diebstahl- oder Unterschmuggelwurf um 15 IF. Bei Erfolg wird dem Ziel alles geraubt, was unauffällig zu stehlen ist oder sogar ein größerer Gegenstand, wie ein Schwert, untergejubelt, sollte dies möglich sein. | Verursacht 1 Stress. |
 
-Tätigkeiten: Fingerfertigkeit
+### Tätigkeiten
 
 | **Tätigkeit** | **Effekt** | **Tasche** | **Verbraucht** |
 | --- | --- | --- | --- |
 | Trickbetrügerei | Der Schurke verführt Unwissende zum Trickspielbetrug, wie ein Hütchenspiel (FF gegen SG), indem er bspw. einen Strohmann oder Unbeteiligten gewinnen lässt. Kann über mehrere Phasen gehen, die zunehmend gefährlicher werden. Wird zudem schwer bestraft. | Trickspiel | - |
 
-Handwerk
-
+## Handwerk
+### Fähigkeiten
 | **Bezeichnung** | **Effekt** | | **LV** |
 | --- | --- | --- | --- |
 | **Handwerk (HW)** | **Fertigkeit: Die Kunst, handwerkliche Tätigkeiten und physische Arbeit zielgerecht auszuführen.** Berechnung:(Kraft + Weisheit) / 2- Ermöglicht dem Nachgehen eines Handwerks (z.B. die Reparatur einer Rüstung).- Ermöglicht den Bau oder die Herstellung verschiedener Gegenstände.- Benötigt für viele Arbeiten einen Werkzeuggürtel. |
@@ -193,13 +193,13 @@ Handwerk
 | Ingenieurkunst | Ermöglicht es, mechanische Apparaturen (wie Armbrüste) herzustellen, zu identifizieren und zu reparieren. |
 | Werkseffizienz LV 1 | Wird eine materialintensive Aktion oder Tätigkeit mit W20 durchgeführt, so verbraucht sie keine Ladung aus ihrem Set. |
 
-Aktionen: Handwerk
+### Aktionen
 
 | **Fähigkeit** | **EN** | **ZZ** | **Effekt** | **Bedingung(en)** |
 | --- | --- | --- | --- | --- |
 | Notflickerei | 1 | - | Repariert eine beschädigte Waffe, Rüstung oder anderen Ausrüstungsgegenstand kurzzeitig, so dass diese für den Rest des Tages ohne Malus verwendet werden kann. Sie muss jedoch am Abend instandgesetzt werden. | Verbraucht 1 Ladung aus dem Werkzeuggürtel. |
 
-Tätigkeiten: Handwerk
+### Tätigkeiten
 
 | **Tätigkeit** | **Effekt** | **Tasche** | **Verbraucht** |
 | --- | --- | --- | --- |
@@ -209,13 +209,12 @@ Tätigkeiten: Handwerk
 | Mineralogie | Erweitert die Tätigkeit „Sammeln&quot;: Der Charakter durchstreift und durchsucht die Umgebung nach Mineralien, Kristallen, Erzen oder anderen Ingredienzien (wie Schwefel oder Salpeter): BW gegen SG. Benötigt zudem für den Abbau eine Picke, Spitzhacke oder ein dazugehöriges Set.Hinweis: Erze oder Salze können ein gutes Vorkommen bedeuten. Diesen Abbauort kann man (meist gegen Vorlage eines Gildenabzeichens) für Geld an eine Bergbauorganisation oder -gilde verkaufen. | - | - |
 | Verbessern | Der Charakter verbessert einen gewöhnlich gefertigten Gegenstand, balanciert Waffen, verbessert Haltegriffe, passt Rüstungen an oder ähnliches: HW gegen SG. Beispiele hierfür sind:Waffe: Gewährt +1 AW / VW;Schild: Gewährt +1 BW;Rüstung: Gewährt +2 RW | Schmiede | 1 Ladung |
 
-Haushalt
-
+## Haushalt
+### Fähigkeiten
 | **Bezeichnung** | **Effekt** | | **LV** |
 | --- | --- | --- | --- |
 | **Haushalt (Befähigung)** | **Ermöglicht es, einen Haushalt zu führen, zu kochen, zu nähen und im Allgemeinen für Ordnung zu sorgen.** Kompetenz: Konzentration (KE), alternativ auch Handwerk (HW) |
-|  **Haushalt LV 1**  | **Gewährt Haushalt (Befähigung)** |
- |  **0**  |
+|  **Haushalt LV 1**  | **Gewährt Haushalt (Befähigung)** | |  **0**  |
 | Arbeitsstruktur LV 1 | Wird eine Tätigkeit mit W20 durchgeführt, kostet sie keine Tageszeit. |
 | Reisereißen | Der Charakter streift gelegentlich abseits der Wege. Dies erlaubt es ihm gegen den Einsatz von 1 Stamina (EN), die Tätigkeiten „Sammeln&quot;, „Mineralogie&quot; und sogar „Jagen&quot; parallel zur Reise durchzuführen. |
 | Schleppen | Erlaubt es, über das Inventar-Maximum hinaus, Gegenstände mitzunehmen, jedoch fordert jeder zusätzlich genutzte Inventarplatz einen Punkt Stamina (EN) pro Tag. Benötigt jedoch mindestens einen mittleren Rucksack, um sie auch im Kampf oder in Stresssituationen behalten zu können. |
@@ -223,114 +222,78 @@ Haushalt
 | „Dörren&quot; (T) | Tätigkeit: Der Charakter dörrt Fleisch und Früchte zu hochwertigen Tagesrationen. (Siehe Tätigkeiten) |
 | „Kochen&quot; (T) | Tätigkeit: Der Charakter bereitet eine Mahlzeit zu, für sich und / oder die Gruppe. (Siehe Tätigkeiten) |
 | „Schneiderei&quot; (T) | Tätigkeit: Der Charakter führt für eine Gemeinschaft (auch gegen Geld) Schneiderarbeiten durch. (Siehe Tätigkeiten) |
-|  **+ Haushalt LV 2**  |
- |
- |  **3**  |
+|  **+ Haushalt LV 2**  || |  **3**  |
 | + Arbeitsstruktur LV 2 | Wird eine Tätigkeit mit W18 oder höher durchgeführt kostet sie keine Tageszeit. |
 | Lagerkoch LV 1 | Erhöht die maximalen Trefferpunkt (TP) und Lebenspunkte (LP) der gesamten Gruppe um 5% |
 | Sauberkeit LV 1 | Der Charakter reinigt die Kleider und Ausrüstung der Gruppe und gewährt dieser somit +1 Autorität (AU) und +1 Rhetorik (RH). |
 | „Giftkoch&quot; | Der Charakter kann Gifte und Kräuter nutzen, um das Essen aufzuwerten. (Siehe Aktionen) |
-|  **+ Haushalt LV 3**  |
- |
- |  **6**  |
+|  **+ Haushalt LV 3**  | | |  **6**  |
 | + Arbeitsstruktur LV 3 | Wird eine Tätigkeit mit W17 oder höher durchgeführt kostet sie keine Tageszeit. |
 | + Lagerkoch LV 2 | Erhöht die maximalen Trefferpunkt (TP) und Lebenspunkte (LP) der gesamten Gruppe nochmalig um 5% (insg. 10%) |
-|  **+ Haushalt LV 4**  |
- |
- |  **9**  |
+|  **+ Haushalt LV 4**  | | |  **9**  |
 | + Arbeitsstruktur LV 4 | Wird eine Tätigkeit mit W16 oder höher durchgeführt kostet sie keine Tageszeit. |
 | + Sauberkeit LV 2 | Gewährt nochmalig +1 (insg. +2) Autorität (AU) und Rhetorik (RH). |
 | + Lagerkoch LV 3 | Erhöht die maximalen Trefferpunkt (TP) und Lebenspunkte (LP) der gesamten Gruppe nochmalig um 5% (insg. 15%) |
-|  **+ Haushalt LV 5**  |
- |
- |  **12**  |
+|  **+ Haushalt LV 5**  | | |  **12**  |
 | Arbeitstier | „Fokus&quot; kann nun für handwerkliche Tätigkeiten (wie Haushalt, Fingerfertigkeit, Alchemie usw.) unbegrenzt oft pro Tag gewirkt werden. |
 | + Arbeitsstruktur LV 5 | Wird eine Tätigkeit mit W15 oder höher durchgeführt kostet sie keine Tageszeit. |
 | + Lagerkoch LV 4 | Erhöht die maximalen Trefferpunkt (TP) und Lebenspunkte (LP) der gesamten Gruppe nochmalig um 5% (insg. 20%) |
 | Systematik | Ist eine handwerkliche Fähigkeit (wie z.B. Alchemie, Handwerk oder Rhetorik) erlernt, gilt nun bereits eine W19 als Kritischer Erfolg, ebenso gilt eine W1 nur noch als 1. Sollte der Charakter „gleichförmig&quot; sein (Eigenschaften: Neutral), gilt eine W20 wieder als Kritischer Erfolg. |
 
-Aktionen: Haushalt
+### Aktionen
 
 | **Fähigkeit** | **EN** | **ZZ** | **Effekt** | **Bedingung(en)** |
 | --- | --- | --- | --- | --- |
 | Giftkoch | 0 | - | Der Charakter kann während der Tätigkeit „Kochen&quot; Kräuterpunkte (KP) verwenden, um eine Mahlzeit aufzuwerten oder mit besonderen Eigenschaften auszustatten:W1 – W5 = Die Gruppe erleidet bösartigen Brechdurchfall (verursacht 1 Stress, SG 30).W6 – W10 = Keine Wirkung (gilt aber als Frisches Gewürzkraut).W11 – W15 = Aufwertung der Mahlzeit um eine Stufe.W16 – W20 = Aufwertung und berauschende Wirkung (zusätzlicher garantierter Stressabbau). | - |
 
-Tätigkeiten: Haushalt
+### Tätigkeiten
 
 | **Tätigkeit** | **Effekt** | **Tasche** | **Verbraucht** |
 | --- | --- | --- | --- |
 | Backen | Der Charakter backt, ob nun ein Brot oder ein anderes Gebäck. Kann parallel und ohne Zeitverlust mit „Kochen&quot; durchgeführt werden. | Kochutensilien,Manuelmühle | - |
 | Dörren | Der Charakter dörrt und räuchert Obst, Gemüse und Fleisch zu hochwertigen Tagesrationen. Die Vorbereitung ist dabei sehr rasch, es muss jedoch zwei bis drei Tage gedörrt werden. Der Charakter muss nur einmal täglich den Fortschritt überprüfen. Die Dörrmenge entspricht etwa:- 1 kg Rinderfleisch = 1 Tagesration- 2 kg Schweinefleisch (z.B. vom Keiler) = 1 Tagesration- 1 kg Wildfleisch (z.B. vom Reh oder Elch) = 1 Tagesration | - | - |
-| Kochen | Der Charakter bereitet eine Mahlzeit für die Gruppe zu: Er schält bspw. Kartoffeln, bearbeitet Weizen mit einer Manuelmühle, schneidet Fleisch, hackt Gemüse, brät, kocht und gart, um eine bestmögliche, stressreduzierende Mahlzeit zu kreieren: KE gegen die SGs: 20, 25, 30.
-Diese SGs bzw. der Wurf wird zusätzlich durch die Anzahl an Zutaten verstärkt werden. Jede Zutat ab einer dritten steigert den Wurf um +3. | Kochutensilien,Manuelmühle,Gewürzbeutel | Nahrung,1 Gewürz |
+| Kochen | Der Charakter bereitet eine Mahlzeit für die Gruppe zu: Er schält bspw. Kartoffeln, bearbeitet Weizen mit einer Manuelmühle, schneidet Fleisch, hackt Gemüse, brät, kocht und gart, um eine bestmögliche, stressreduzierende Mahlzeit zu kreieren: KE gegen die SGs: 20, 25, 30. Diese SGs bzw. der Wurf wird zusätzlich durch die Anzahl an Zutaten verstärkt werden. Jede Zutat ab einer dritten steigert den Wurf um +3. | Kochutensilien,Manuelmühle,Gewürzbeutel | Nahrung,1 Gewürz |
 | Schneiderei | Handwerk eines Wanderschneiders. Der Charakter führt einfache Schneiderarbeiten und Ausbesserungen durch und erhält dafür (meist) einen Lohn: FF gegen SG. | Werkzeuggürtel | Ab SG 15:1 Ladung |
 
-Jagd
-
+## Jagd
+### Fähigkeiten
 | **Bezeichnung** | **Effekt** | | **LV** |
 | --- | --- | --- | --- |
 | **Jagd (Befähigung)** | **Die Kunst des Waidwerks: Ermöglicht es, Fährten zu lesen, Tiere wie Personen in der Wildnis zu jagen und dort auch zu überleben.** Kompetenz: Jagen: Bewusstsein (BW), Kürschnern: Fingerfertigkeit (FF), Forensik: Verständnis (VS) |
-|  **Jagd LV 1**  | **Gewährt Jagd (Befähigung)** |
- |  **0**  |
-| --- | --- | --- | --- |
+|  **Jagd LV 1**  | **Gewährt Jagd (Befähigung)** | |  **0**  |
 | Pirsch LV 1 | Gewährt +1 Infiltration (IF). |
-| --- | --- |
 | Orientierung | Gewährt dem Charakter eine deutlich verbesserte Orientierungsgabe. |
 | „Schwäche erkennen&quot; | Der Charakter erkennt die Schwachstellen und Werte einer Kreatur. (Siehe Aktionen) |
-| --- | --- |
 | „Blattschuss&quot; | Fernkampf-Zonenangriff von der Seite, verursacht gegen vierbeinige Tiere dreifachen Schaden. (Siehe Aktionen) |
 | „Jagd&quot; (T) | Der Charakter jagt ein Tier oder einen Menschen in einem größeren Gebiet. (Siehe Tätigkeiten) |
-| --- | --- |
 | „Kürschnern&quot; (T) | Zerlegt Jagdbeute in essbares Fleisch, Felle und / oder wertvolle Trophäen. (Siehe Aktionen) |
-| --- | --- | --- | --- |
-|  **+ Jagd LV 2**  |
- |
- |  **3**  |
+|  **+ Jagd LV 2**  | | |  **3**  |
 | Tieranatomie LV 1 | Gewährt Schaden gegen Tiere: +1 mit Einhand- und Fernkampfwaffen, +2 mit Zweihandwaffen.Erweitert zudem alle Medizinwürfe (MD) und Kürschnerversuche bei Tieren um +1. |
 | „Bezwingen&quot; (E) | Bestienkampf: Der Jäger klettert auf eine große Bestie und bekämpft sie von ihrem Rücken aus. (Siehe Aktionen) |
-| --- | --- |
 | „Bluttreffer&quot; (E) | Kritischer Kopf- oder Kehlentreffer, der insgesamt +300% oder sogar +400% Schaden verursacht. (Siehe Aktionen) |
 | „Forensik&quot; | Erweitertes Fährtenlesen: Der Jäger kann präzise bestimmen, was an einem Ort geschah. (Siehe Aktionen) |
-| --- | --- | --- | --- |
-|  **+ Jagd LV 3**  |
- |
- |  **6**  |
-| --- | --- | --- | --- |
+|  **+ Jagd LV 3**  | | |  **6**  |
 | Genauigkeit LV 1 | Gewährt +1 AW für alle Fernkampfangriffe. |
-| --- | --- |
 | + Pirsch LV 2 | Gewährt nochmalig +1 (insg. +2) Infiltration (IF). |
 | + Tieranatomie LV 2 | Gewährt nochmalig Schaden gegen Tiere: +1 (insg. +2) mit Einhand- und Fernkampfwaffen, +2 (insg. +4) mit Zweihandwaffen.Erweitert zudem alle Medizinwürfe (MD) und Kürschnerversuchen bei Tieren um +1 (insg. +2). |
 | „Erwürgen&quot; (E) | Der Charakter erwürgt Runde für Runde das Ziel während dem „Bezwingen&quot;. (Siehe Aktionen) |
-| --- | --- |
 | „Lauschen&quot; | Erkennt alle Wesen und Dinge in direkter Umgebung. (Siehe Aktionen) |
-| --- | --- | --- | --- |
-|  **+ Jagd LV 4**  |
- |
- |  **9**  |
-| --- | --- | --- | --- |
+|  **+ Jagd LV 4**  | | |  **9**  |
 | + Genauigkeit LV 2 | Gewährt noch einmal +1 AW (insg. +2) für alle Fernkampfangriffe. |
-| --- | --- |
 | + Tieranatomie LV 3 | Gewährt nochmalig Schaden gegen Tiere: +1 (insg. +3) mit Einhand- und Fernkampfwaffen, +2 (insg. +6) mit Zweihandwaffen.Erweitert zudem alle Medizinwürfe (MD) und Kürschnerversuchen bei Tieren um +1 (insg. +3). |
 | + „Bezwingen&quot; LV 2 | „Bezwingen&quot; (und somit „Erwürgen&quot;) kann nun auch gegen Humanoide durchgeführt werden, insofern das Ziel mit dem Rücken zum Charakter steht. |
-| --- | --- |
 | „Schützenhaltung&quot; | Offensive Kampfhaltung im Fernkampf: Verdoppelt den Schaden, lässt Schildträger straucheln, verfehlt jedoch häufiger. (Siehe Aktionen) |
-| --- | --- |
-|  **+ Jagd LV 5**  |
- |
- |  **12**  |
-| --- | --- | --- | --- |
+|  **+ Jagd LV 5**  | | |  **12**  |
 | Entbehrung | Der Charakter kann durch minderwertiges Essen, schlechte Witterung, harten Untergrund und dergleichen keinen Stress mehr erleiden. |
 | + „Blattschuss&quot; LV 2 | Gegen 1 EN funktioniert „Blattschuss&quot; nun auch als panzerbrechender Angriff gegen Menschen. |
-| --- | --- |
 | + „Bluttreffer&quot; LV 2 | „Bluttreffer&quot; verursacht nun +400% Schaden auf Kopf und sogar +500% Schaden gegen die Kehle. |
 
-Aktionen: Jagd
+### Aktionen
 
 | **Fähigkeit** | **EN** | **ZZ** | **Effekt** | **Bedingung(en)** |
 | --- | --- | --- | --- | --- |
 | Bezwingen | 1 | 1 | Ringkampf gegen Tiere (wie Wölfe, Bären oder Mammuts) und Kreaturen in mehreren Runden:1. Runde: Der Charakter springt auf eine Bestie, heftet sich an sie und / oder zwingt sie in einen Ringkampf: Athletik (AT) oder Unbewaffnet (UW) +3 gegen AT der Kreatur. Bei Erfolg, kann er nicht mehr von dem Tier attackiert werden. Bei einem Misserfolg wird er niedergeworfen.Ab der 2. Runde: Der Charakter kann mit einer einhändigen Waffe auf das Ziel widerstandslos ein-schlagen. In seiner Runde wiederum versucht das Ziel den Charakter abzuschütteln (AT +3 gegen AT der Kreatur). | - |
-| Blattschuss | 0 | 1 | Panzerbrechender Fernkampf-Zonenangriff von der Seite in die Achsel und hinter das Schulterblatt, von daher -10 AW, mit jedoch tödlicher Wirkung: - Verursacht bei Erfolg +200% Schaden.- Bei einem Treffer mit W15 oder höher stirbt das Ziel zudem nach etwa 10 Runden.- Ein Kritischer Treffer (W20) tötet das Ziel sofort. | Schütze muss seitlich vom Ziel stehen. Funktioniert nur gegen vierbeinige Tiere,
- nicht aber gegen Untote. |
+| Blattschuss | 0 | 1 | Panzerbrechender Fernkampf-Zonenangriff von der Seite in die Achsel und hinter das Schulterblatt, von daher -10 AW, mit jedoch tödlicher Wirkung: - Verursacht bei Erfolg +200% Schaden.- Bei einem Treffer mit W15 oder höher stirbt das Ziel zudem nach etwa 10 Runden.- Ein Kritischer Treffer (W20) tötet das Ziel sofort. | Schütze muss seitlich vom Ziel stehen. Funktioniert nur gegen vierbeinige Tiere, nicht aber gegen Untote. |
 | Bluttreffer | 1 | 1 | Erweitert Zonenangriffe auf Kopf und Kehle:- Kopf: Verursacht +300% Schaden (statt +200%).- Kehle: Verursacht +400% Schaden (statt +300%) | Muss vor dem Angriff aktiviert werden. |
 | Erwürgen | 1 | 1 | Hat der Charakter erfolgreich einen Ringkampf mithilfe von „Bezwingen&quot; begonnen, so kann er statt eines Angriffs das Ziel erwürgen. Die Abschüttelungsproben basieren weiterhin auf denselben Werten, jedoch verliert das Ziel Runde um Runde -2 auf alle Würfe und erleidet vollen Nahkampfschaden | Nur gegen lebende Ziele möglich. |
 | Forensik | 1 | / | Erweitertes Fährtenlesen: Der Charakter kann präzise bestimmten, was an einem Ort (wie z.B. einem Tatort) geschah, solange die Spuren noch einigermaßen frisch sind: VS gegen SG. Dies gilt auch für die Erahnung vieler Begebenheiten (z.B. wann ein Lager verlassen wurde, ob jemand in ein Haus eingebrochen ist und vieles mehr). | SG kann enorm variieren. |
@@ -338,106 +301,65 @@ Aktionen: Jagd
 | Schützenhaltung | 0 | 2 | Offensive Kampfhaltung im Fernkampf: Distanzangriffe verursachen nun +100% Schaden, gelten jedoch beim Ausweichen nicht mehr als Streiftreffer. Blockt ein Ziel den Angriff mit dem Schild, kann es dadurch ins Straucheln geraten (AT gegen SG 18). | Benötigt zwei Runden, um hinein- oder hinauszuwechseln. |
 | Schwäche erkennen | 0 | 1 | Der Charakter erkennt die Schwachstellen einer Person oder Kreatur (VS gegen SG). Kann auch die Werte der Entität verraten und gewährt zudem +1 auf alle Würfe im Kampf gegen diese. | Ziel muss Schwachstellen besitzen. |
 
-Tätigkeiten: Jagd
+### Tätigkeiten
 
 | **Tätigkeit** | **Effekt** | **Tasche** | **Verbraucht** |
 | --- | --- | --- | --- |
 | Jagen | Der Charakter geht auf die Jagd. Dabei kann er nach Tieren wie auch (bspw. flüchtigen) Humanoiden suchen. Der SG (BW gegen SG) variiert mit der jeweiligen Region. | - | - |
 | Kürschnern | Der Charakter zieht einem Tier (oder schlimmstenfalls einen Menschen) die Haut oder das Fell ab und zerlegt es in wertvolle Trophäen und essbares Fleisch. Der SG (FF gegen SG) variiert hierbei mit der Beute und seinen Verletzungen. | Kürschnerset | - |
 
-Medizin
+## Medizin
+
+### Fähigkeiten
 
 | **Bezeichnung** | **Effekt** || **LV** |
 | --- | --- | --- | --- |
 | **Medizin (Befähigung)** | **Die Heilerkunst umfasst die Diagnose und Behandlung von Krankheiten und Verletzungen, ebenso Erste Hilfe und Chirurgie.** Kompetenzen: Diagnose: Verständnis (VS), Chirurgie: Fingerfertigkeit (FF)Synergie: Blutmagie kann nun nicht mehr in Mutationen enden (es sei denn, diese sind gewollt). |
-| --- | --- |
-|  **+ Medizin LV 1**  | **Gewährt Medizin (Befähigung)** |
- |  **0**  |
-| --- | --- | --- | --- |
+|  **+ Medizin LV 1**  | **Gewährt Medizin (Befähigung)** | |  **0**  |
 | Gesundheitsbewusstsein LV 1 | Erhöht die maximalen Treffer- und Lebenspunkte (TP und LP) um 5%. |
-| --- | --- |
 | Körperkunde LV 1 | Grundwissen über den Körper von Mensch und Tier: Gewährt +1 auf alle Identifikationswürfe bezüglich Krankheiten oder Todesursachen. |
 | „Erste Hilfe&quot; (M) | Die frischen Wunden eines Charakters werden behandelt. (Siehe Aktionen) |
-| --- | --- |
 | „Wundpflege&quot; (M) | Verdoppelt für den Einsatz einer Ladung aus der Medizintasche tägliche Regeneration der Lebenspunkte (LP). (Siehe Aktionen) |
-| --- | --- |
 | „Baderei&quot; (T) (M) | Tätigkeit: Der Charakter vollführt Rasuren und Aderlässe, setzt Klistiere und leistet Geburtshilfe (Siehe Tätigkeiten) |
-| --- | --- |
 | „Chirurgie&quot; (T) | Tätigkeit: Der Charakter führt eine chirurgische Operation durch. (Siehe Tätigkeiten) |
-| --- | --- | --- | --- |
-|  **+ Medizin LV 2**  |
- |
- |  **3**  |
-| --- | --- | --- | --- |
+|  **+ Medizin LV 2**  | | |  **3**  |
 | + Gesundheitsbewusstsein LV 2 | Erhöht die maximalen Treffer- und Lebenspunkte (TP und LP) um nochmalig um 5% (insg. 10%). |
-| --- | --- |
 | + Körperkunde LV 2 | Erweitertes Grundwissen den Körper von Mensch und Tier: Gewährt +1 (insg. +2) auf alle Identifikationswürfe von Krankheiten oder Todesursachen. |
 | + „Erste Hilfe&quot; LV 2 | Erweitert die Aktion „Erste Hilfe&quot; auf 20% der maximalen Trefferpunkte des Ziels. |
-| --- | --- |
-|
- |
- |
- |
- |
-| --- | --- | --- | --- |
-|  **+ Medizin LV 3**  |
- |
- |  **6**  |
-| --- | --- | --- | --- |
+|  **+ Medizin LV 3**  | | |  **6**  |
 | + Gesundheitsbewusstsein LV 3 | Erhöht die maximalen Treffer- und Lebenspunkte (TP und LP) um nochmalig um 5% (insg. 15%). |
-| --- | --- |
 | + Körperkunde LV 3 | Erweitertes Wissen den Körper von Mensch und Tier: Gewährt +1 (insg. +3) auf alle Identifikationswürfe von Krankheiten oder Todesursachen. |
 | + „Erste Hilfe&quot; LV 3 | Erweitert die Aktion „Erste Hilfe&quot; auf 25% der maximalen Trefferpunkte des Ziels. |
-| --- | --- |
 | + „Massage&quot; LV 2 | Falls erlernt: Eine „Massage&quot; gibt nun bei Erfolg drei Punkte Stamina (EN) zurück. |
 | + „Chirurgie&quot; LV 2 | Chirurgische Routine: Der Charakter kann nun zwei Operationen innerhalb einer Tätigkeit durchführen. |
-| --- | --- |
-| --- | --- | --- | --- |
-|  **+ Medizin LV 4**  |
- |
- |  **9**  |
-| --- | --- | --- | --- |
+|  **+ Medizin LV 4**  | | |  **9**  |
 | + Gesundheitsbewusstsein LV 4 | Erhöht die maximalen Treffer- und Lebenspunkte (TP und LP) um nochmalig um 5% (insg. 20%). |
-| --- | --- |
 | + Körperkunde LV 4 | Fundiertes Wissen den Körper von Mensch und Tier: Gewährt +1 (insg. +4) auf alle Identifikationswürfe von Krankheiten oder Todesursachen. |
 | + „Erste Hilfe&quot; LV 4 | Erweitert die Aktion „Erste Hilfe&quot; auf 30% der maximalen Trefferpunkte des Ziels. |
-| --- | --- |
 | + „Massage&quot; LV 3 | Falls erlernt: Die „Massage&quot; löst bei Erfolg zudem einen Stresspunkt. |
-| --- | --- |
-|  **+ Medizin LV 5**  |
- |
- |  **12**  |
-| --- | --- | --- | --- |
+|  **+ Medizin LV 5**  | | |  **12**  |
 | + Gesundheitsbewusstsein LV 5 | Erhöht die maximalen Treffer- und Lebenspunkte (TP und LP) um nochmalig um 5% (insg. 25%). |
-| --- | --- |
 | + Körperkunde LV 5 | Tiefgehendes Wissen den Körper von Mensch und Tier: Gewährt +1 (insg. +5) auf alle Identifikationswürfe von Krankheiten oder Todesursachen. |
-| --- | --- |
 | + „Erste Hilfe&quot; LV 5 | Erweitert die Aktion „Erste Hilfe&quot; auf 40% der maximalen Trefferpunkte des Ziels. |
-| --- | --- |
 | „Lebensretter&quot; (E) | Extreme Konzentration während einer Behandlung: Gewährt +15 FF für einen Wurf und bei Erfolg +100% Effekt. (Siehe Aktionen) |
-| --- | --- |
 | + „Massage&quot; LV 4 | Falls erlernt: Die „Massage&quot; heilt nun bei Erfolg auch 20% der Trefferpunkte (TP). |
 | + „Chirurgie&quot; LV 3 | Chirurgische Routine: Der Charakter kann nun drei Operationen innerhalb einer Tätigkeit durchführen. |
-| --- | --- |
-| --- | --- |
-|  **Erweiterung: Masseur**  |  **Benötigt Medizin LV 0**  |
- |  **0**  |
+|  **Erweiterung: Masseur**  |  **Benötigt Medizin LV 0**  | |  **0**  |
 | Sichere Hände | Gewährt +1 AW / VW / BW / PJ. |
 | „Massage&quot; | Der Charakter massiert ein Ziel, das dafür 2 Stamina (EN) zurückerhält. (Siehe Aktionen) |
 | --- | --- |
 | „Akupunktur&quot; (T) | Tätigkeit: Heilt alle körperlichen Schädigungen und Schwächungen, verdoppelt die LP-Regeneration und mehr. (Siehe Tätigkeiten) |
 
-Aktionen: Medizin
+### Aktionen
 
 | **Fähigkeit** | **EN** | **ZZ** | **Effekt** | **Bedingung(en)** |
 | --- | --- | --- | --- | --- |
 | Erste Hilfe (M) | 0 | - | Der Charakter verbindet und näht frische Wunden und heilt das Ziel (Humanoider wie Tier) um den erlittenen Schaden bis zu maximal 15% seiner gesamten Trefferpunkte (FF gegen SG 15). | Nur einmal pro Person pro Tag möglich. Verbraucht eine Ladung aus der Heilertasche. |
 | Lebensretter | 3 | - | Der Charakter versetzt sich während einer Behandlung in einen Zustand extremer Konzentration. Er erhält +15 Fingerfertigkeit (FF) während einer Behandlung (gewöhnlich oder chirurgisch) und erzielt bei Erfolg ein größeres Ergebnis, wie z.B. die Rettung eines praktisch nicht rettbaren Patienten oder die Entfernung eines hartnäckigen Geschwürs. | Verursacht 1 Stress (SG 20), bei Misserfolg sogar unwiderstehbar 2. |
 | Massage | 0 | 1 h | Der Charakter massiert eine Stunde lang ein menschliches Ziel: Athletik (AT) gegen SG 20.Bei Erfolg kann sich dieses entspannen und erhält 2 EN zurück. Eine W20 verdoppelt sämtliche Effekte, eine W1 sorgt für Verkrampfung (-3 auf alle körperlichen Würfe bis zur nächsten Rast).Kann viermal innerhalb einer Tageszeit durchgeführt werden. | Nur einmal pro Person pro Tag möglich. Benötigt zudem Massageöl. |
-| --- | --- | --- | --- | --- |
 | Wundpflege | 0 | - | Der Charakter überprüft, reinigt und desinfiziert die Wunden, entfernt gegebenenfalls Nähte und wechselt die Verbände. So verdoppelt er für einen Tag Lebenspunkt (LP)-Regeneration des Ziels. | Verbraucht eine Ladung aus der Heilertasche. |
 
-Tätigkeiten: Medizin
+### Tätigkeiten
 
 | **Tätigkeit** | **Effekt** | **Tasche** | **Verbraucht** |
 | --- | --- | --- | --- |
@@ -446,107 +368,44 @@ Tätigkeiten: Medizin
 | Chirurgie | Der Charakter verarztet einen Verwundeten (FF gegen SG). Dabei entfernt er Fremdkörper (wie Pfeilspitzen, Pfeile oder Schwertsplitter), richtet Knochen, schneidet Geschwüre oder Wildwuchs heraus o.ä. und kauterisiert und vernäht danach die Wunden. Heiltränke, Essenzen und dergleichen erhöhen die Rettungschancen: +3 FF | Chirurgenbesteck,Heilertasche | jeweils1 Ladung |
 | Foltern | Eine Person wird für Informationen gefoltert (FF gegen PY). Scheitert eine Folterung über SG 20, kann der Gefolterte schwer verletzt oder getötet werden. | Heilertasche | 1 Ladung |
 
-Runenschrift
+## Runenschrift
 
 **KLASSENSPEZIFISCH:** Kann nur von Wirkerklassen (Magier und Priester) erlernt werden.
-
-| **Bezeichnung** | **Effekt** |
- | **LV** |
+### Fähigkeiten
+| **Bezeichnung** | **Effekt** | | **LV** |
 | --- | --- | --- | --- |
-|
- |
- |
- |
- |
 | **Runenschrift (Befähigung)** | **Die Erstellung magischer Runen und Siegel mit einem Runenstift, wie auch die Identifikation fremder Runen.** Kompetenzen: Siegel schreiben: Fingerfertigkeit (FF), Runen gravieren: Konzentration (KE) |
-| --- | --- |
-|
- |
-| --- |
-|  **Runenschrift LV 1**  | **Gewährt Runenschrift (Befähigung)** |
- |  **0**  |
-| --- | --- | --- | --- |
+|  **Runenschrift LV 1**  | **Gewährt Runenschrift (Befähigung)** | |  **0**  |
 | „Siegel zeichnen&quot; | Zeichnet rasch ein magisches Siegel auf ein Objekt. (Siehe Aktionen) |
-| --- | --- |
-| --- | --- | --- | --- |
-|  **+ Runenschrift LV 2**  |
- |
- |  **3**  |
-| --- | --- | --- | --- |
+|  **+ Runenschrift LV 2**  | | |  **3**  |
 | Siegelkrieger | Erlaubt es, Siegel im Nahkampf auf Gegner zu schreiben. Kann durch den Finessewaffen-Angriffswert erweitert werden. |
-| --- | --- |
 | „Siegel verstärken&quot; (E) | Verstärkt ein Siegel um 50% seines Effekts, verbraucht aber +100% des Runenstifts. (Siehe Aktionen) |
-| --- | --- |
-|
- |
- |
- |
- |
-| --- | --- | --- | --- |
-|  **+ Runenschrift LV 3**  |
- |
- |  **6**  |
-| --- | --- | --- | --- |
+|  **+ Runenschrift LV 3**  | | |  **6**  |
 | Komplexität LV 1 | Ermöglicht es, Runen und Siegel mit zwei Wörtern (i.e. Effekten) zu schreiben. |
-| --- | --- |
 | Schnellgravur LV 1 | Eine Runenschreiben-Tätigkeit erstellt zwei Talismane oder Kraftsteine. |
 | „Kraftstein schmieden&quot; (T) | Der Charakter erstellt mithilfe eines Mediums einen Kraftstein. (Siehe Tätigkeiten) |
-| --- | --- |
 | „Runen schreiben&quot; (T) | Tätigkeit: Der Charakter graviert oder beschreibt ein Objekt aufwendig mit magischen Runen. (Siehe Tätigkeiten) |
 | „Schriftrolle erstellen&quot; (T) (K!) | Nur Magier: Tätigkeit: Der Wirker bannt einen Zauberspruch auf eine Schriftrolle. (Siehe Tätigkeiten) |
-|
- |
- |
- |
- |
-| --- | --- | --- | --- |
-|  **Runenschrift LV 4**  |
- |
- |  **9**  |
-| --- | --- | --- | --- |
+|  **Runenschrift LV 4**  | | |  **9**  |
 | + Komplexität LV 2 | Ermöglicht es, Runen und Siegel mit drei Wörtern zu schreiben. |
-| --- | --- |
 | + Schnellgravur LV 2 | Eine Runenschreiben-Tätigkeit erstellt drei Talismane oder Kraftsteine. |
 | „Abändern&quot; | Ändert ein Siegel ganz gleich welcher Art ab oder löscht es. (Siehe Aktionen) |
-| --- | --- |
-|
- |
- |
-| --- | --- |
-|  **+ Runenschrift LV 5**  |
- |
- |  **12**  |
-| --- | --- | --- | --- |
+|  **+ Runenschrift LV 5**  | | |  **12**  |
 | + „Siegel verstärken&quot; LV 2 | „Siegel verstärken&quot; benötigt nun auch im Kampf kein Stamina (EN) mehr. |
-| --- | --- |
 | „Magisch tätowieren&quot; (T) | Tätigkeit: Schreibt eine magische Tätowierung auf ein lebendiges Ziel. (Siehe Tätigkeiten) |
-| --- | --- |
 | „Umschreiben&quot; (T) | Tätigkeit: Schreibt eine Rune oder sogar ein Artefakt um, um seine Wirkung um bis zu 50% verändern. (Siehe Tätigkeiten) |
 
-Aktionen: Runenschrift
+### Aktionen
 
 | **Fähigkeit** | **EN** | **ZZ** | **Effekt** | **Bedingung(en)** |
-| --- | --- | --- | --- | --- |
-|
- |
- |
- |
- |
- |
 | --- | --- | --- | --- | --- |
 | Abändern | 0 | 1 | Schreibt ein magisches Siegel um, so dass z.B. eine Schutzrune den Wirker und seine Verbündeten oder aber auch niemanden mehr hindurchlässt. Kann das Siegel alternativ auch permanent löschen. | Das Siegel umzuschreiben kostet 1 R, zuvor die nötige Ausrüstung zu ziehen ebenfalls 1 R. |
 | Siegel verstärken | 0-1 | / | Umschreibt das Siegel (auch während der Erstellung ohne Zeitverlust) geschickt mit Kollektorzeichen und reichert es so magisch an. Es erhält somit +50% seines Effekts, benötigt aber zweimal so viele Einheiten aus dem Runenstift. | Verbraucht nur im Kampf Stamina (EN). |
 | Siegel schreiben | 0 | 1-3 | Der Charakter zeichnet ein magisches Siegel auf ein Objekt, um dieses entweder mit speziellen magischen Eigenschaften auszustatten oder zur Falle zu machen. (Siehe: Runen und Siegel) | Ein Siegel zu zeichnen kostet 1 R, zuvor die nötige Ausrüstung zu ziehen ebenfalls 1 R. |
 
-Tätigkeiten: Runenschrift
+### Tätigkeiten
 
 | **Tätigkeit** | **Effekt** | **Tasche** | **Verbraucht** |
-| --- | --- | --- | --- |
-|
- |
- |
- |
- |
 | --- | --- | --- | --- |
 | Kraftstein schmieden | Der Charakter reichert ein Medium (wie eine Pfeilspitze, einen Zahn, eine Muschelperle oder sogar eine getrocknete Wolfspinne) mit Mana an, graviert es mit Runen und macht daraus einen Kraftstein: KE gegen SG. | Wirkertasche | 1-X Runenstift |
 | Magisch tätowieren | Der Charakter tätowiert ein lebendiges Ziel (Humanoid wie Tier) mit magischen Symbolen (FF gegen SG), die verschiedene Effekte bewirken können. (Siehe: Tätowierungen) | Tätowierset | 2 Ladungen |
@@ -554,114 +413,42 @@ Tätigkeiten: Runenschrift
 | Schriftrolle erstellen | Der Charakter speichert einen Zauberspruch auf eine Schriftrolle (KE gegen SG), so dass dieser auch von Nicht-Magiewirkenden gesprochen werden kann. Die EN-Kosten entsprechen den Zauberkosten +2. Flüche oder Rituale können nicht auf die Schriftrolle geschrieben werden.Das Wirken einer Schriftrolle benötigt im Regelfall (ohne „Flinke Finger&quot;) 2 Runden. | Wirkertasche | 5 Runenstift,(Beschreibung) |
 | Umschreiben | Schreibt eine Rune, einen Kraftstein, ein Artefakt oder sogar einen Apparatus um, um die gespeicherte und kanalisierte Energie einem anderen Zweck zuzuführen. Der Wirker kann somit Kraftfeld- oder Alarmrunen deaktivieren, aber auch Artefakte neu modullieren, wie z.B. einen Ring, der seinem Träger 2 Körperkraft-Punkte verleiht, darauf umpolen, dass dieser einen Körperkraft- und einen Geschicklichkeitspunkt gewährt. Und vieles mehr. | Wirkerstasche | 1-X Runenstift |
 
-Tierhaltung
+## Tierhaltung
 
 **Ermöglicht / erweitert:** Das Halten, Befehlen, Koordinieren und Pflegen von Begleittieren.
-
-| **Bezeichnung** | **Effekt** |
- | **LV** |
+### Fähigkeiten
+| **Bezeichnung** | **Effekt** | | **LV** |
 | --- | --- | --- | --- |
-|
- |
- |
- |
- |
 | **Tierhaltung (Befähigung)** | **Das Halten und Kommandieren von Tieren, ob nun Nutzvieh, wie Pferde, oder abgerichtete Kämpfer, wie Hunde.** Kompetenz: Befehligen: Autorität (AU), Pflege: Handwerk (HW) |
-| --- | --- |
-|
- |
-| --- |
-|  **Tierhaltung LV 0**  | **Gewährt die Tierhaltung (Befähigung)** |
- |  **0**  |
-| --- | --- | --- | --- |
+|  **Tierhaltung LV 0**  | **Gewährt die Tierhaltung (Befähigung)** | |  **0**  |
 | Tierhaltung: Hunde | Ermöglicht es, Jagd- und Bluthunde zu halten und zu befehligen. |
 | Tierhaltung: Vieh | Ermöglicht es, Nutztiere wie Pferde, Ziegen oder Rinder zu halten und zu befehligen. |
 | „Tierpflege&quot; (T) | Tätigkeit: Der Charakter pflegt und reinigt das Reittier und gewährt ihm so verschiedene Boni. (Siehe Tätigkeiten) |
-| --- | --- |
-|
- |
- |
- |
- |
-| --- | --- | --- | --- |
-|  **+ Tierhaltung LV 1**  |
- |
- |  **0**  |
-| --- | --- | --- | --- |
+|  **+ Tierhaltung LV 1**  | | |  **0**  |
 | Tierhaltung: Kleintiere | Ermöglicht es, Kleintiere wie Frettchen oder Ratten zu halten und zu befehligen. |
-| --- | --- |
 | Tierhaltung: Vögel | Ermöglicht es, Vögel wie Raben oder Falken zu halten und zu befehligen. |
 | Ausdauertraining LV 1 | Gewährt einem Begleittier +1 Stamina (EN). Dieses muss jedoch seit mindestens zwei Wochen den Charakter begleiten, damit der Effekt in Kraft tritt. |
-| --- | --- |
 | Verbundenheit | Begleitet ein Tier den Charakter länger als einen Monat, so wird es im Falle einer Trennung große Mühe auf sich nehmen, diesen wiederzufinden. |
 | „Halten&quot; | Ein Ziel wird mithilfe des Begleittiers in Position gehalten oder an der Flucht gehindert. (Siehe Aktionen) |
-| --- | --- |
 | „Alpha&quot; (E) | Gegen 1 Stamina (EN) kann das Tier für den Rest des Kampfes ohne Befehlswürfe kommandiert werden. (Siehe Aktionen) |
-|
- |
- |
- |
- |
-| --- | --- | --- | --- |
-|  **+ Tierhaltung LV 3**  |
- |
- |  **3**  |
-| --- | --- | --- | --- |
+|  **+ Tierhaltung LV 3**  | | |  **3**  |
 | + Ausdauertraining LV 2 | Gewährt einem Begleittier nochmalig +1 (insg. +2) Stamina (EN). |
-| --- | --- |
 | Hundeflüsterer | Präzise Körpersprache: Wachhunde reagieren zwar noch auf den Charakter, nähern sich ihm beispielsweise, bellen aber nicht mehr. |
 | „Stopp&quot; (E) | Autoritäre Gestik oder Aussage, die ein oder mehrere Ziele für einen Moment innehalten lässt. (Siehe Aktionen) |
-| --- | --- |
 | „Zähmen&quot; (T) | Tätigkeit: Der Charakter zähmt allmählich ein gefangenes Tier. (Siehe Tätigkeiten) |
-|
- |
- |
- |
- |
-| --- | --- | --- | --- |
-|  **+ Tierhaltung LV 4**  |
- |
- |  **6**  |
-| --- | --- | --- | --- |
+|  **+ Tierhaltung LV 4**  | | |  **6**  |
 | + Ausdauertraining LV 3 | Gewährt einem Begleittier nochmalig +1 (insg. 3) Stamina (EN). |
-| --- | --- |
 | Rudelführer | In Anwesenheit des Charakters erfahren Begleit- wie auch Reittiere keine Panik mehr. |
-|
- |
- |
- |
- |
-| --- | --- | --- | --- |
-|  **+ Tierhaltung LV 5**  |
- |
- |  **9**  |
-| --- | --- | --- | --- |
+|  **+ Tierhaltung LV 5**  | | |  **9**  |
 | Tierhaltung: Bestien | Ermöglicht es, Bestien wie Bären oder Raubkatzen zu halten und zu befehligen. |
-| --- | --- |
 | + „Alpha&quot; LV 2 | „Alpha&quot; benötigt nun kein Stamina (EN) mehr. |
-| --- | --- |
 | „Präsenz&quot; (E) | Willensstarke Präsenz gegenüber Wildtieren, die diese bremsen oder sogar einschüchtern kann. (Siehe Aktionen) |
-|
- |
- |
-| --- | --- |
-|  **+ Tierhaltung LV 5**  |
- |
- |  **12**  |
-| --- | --- | --- | --- |
+|  **+ Tierhaltung LV 5**  | | |  **12**  |
 | „Bestienmeister&quot; (E) | Verstärkt ein Begleittier für einen Kampf oder Situation immens und gewährt ihm +5 auf alle Würfe sowie +50% Schaden. |
-| --- | --- |
 
-Aktionen: Tierhaltung
+### Aktionen
 
 | **Fähigkeit** | **EN** | **ZZ** | **Effekt** | **Bedingung(en)** |
-| --- | --- | --- | --- | --- |
-|
- |
- |
- |
- |
- |
 | --- | --- | --- | --- | --- |
 | Alpha | 1 | 1 | Der Charakter stellt sich auf sein Begleittier ein. Er kann ihm nun für den Rest des Kampfes einfache Befehle (wie Angriffe, Rückzug, o.ä.) ohne Befehls- oder Charismawürfe erteilen. | - |
 | Bestienmeister | 2 | 1 | Der Charakter konzentriert sich fanatisch auf ein Begleittier, was seine Würfe für eine Stresssituation oder einen Kampf um 5 erweitert und ihm währenddessen +50% Schaden gewährt. | - |
@@ -669,15 +456,8 @@ Aktionen: Tierhaltung
 | Präsenz | 1 | 2 | Der Charakter postiert sich selbstbewusst und ausdrucksstark vor ein Wildtier, einer Bestie oder dem Leittier eines Rudels und konkurriert mit ihm im Willen: PY gegen PY. Der Effekt variiert mit der Erfolgsdifferenz:Bei Erfolg = Das Tier wird eingeschüchtert. Es erleidet -2 auf alle Würfe.5 über dem SG = Starke Einschüchterung, das Tier erleidet -5 auf alle Würfe.10 über dem SG = Das Tier wagt es nicht, den Charakter anzugreifen.W20 = Das Tier unterwirft sich. Es kann gefangengenommen und gezähmt werden. | - |
 | Stopp | 0-3 | 1 | Selbstbewusste, autoritäre Gestik oder Spruch, der ein oder mehrere Ziele (menschlich wie tierisch) in ihrem Tun (wie auch einem Angriff) innehalten lässt. Kann sogar eine ganze Gruppe für eine Runde im Kampf bremsen. Die Stamina (EN)-Kosten variieren hierbei je nach Situation:- Eine Person / ein Tier im Alltag: Keine EN.- Eine Person / ein Tier in einer Stresssituation (wie einen Kampf): 1 EN.- Mehrere Personen oder Tiere: 3 EN. | Funktioniert nur einmal pro Ziel und nicht z.B. gegen Fliehende während einer Verfolgungs-jagd. |
 
-Tätigkeiten: Tierhaltung
-
+### Tätigkeiten
 | **Tätigkeit** | **Effekt** | **Tasche** | **Verbraucht** |
-| --- | --- | --- | --- |
-|
- |
- |
- |
- |
-| --- | --- | --- | --- |
+| ---| ---| ---| ---|
 | Tierpflege | Der Charakter pflegt und umsorgt ein Tier (Reit- wie Begleittier), indem er sein Fell kämmt und bei Bedarf schert, es wäscht, die Zähne überprüft, Hufe auskratzt und es wäscht. Die Boni, die es am nächsten Tag erhält, unterscheiden sich danach, was der Charakter bereit ist, dafür einzusetzen:- 1 Ladung aus dem Tierpflegeset: +1 auf alle Würfe für einen Tag.- 1 Ladung aus einer Heilertasche / einem Medizinbeutel: +1 auf alle Würfe für einen Tag. | Tierpflegeset | - |
 | Zähmen | Der Charakter zähmt über mehrere Phasen ein gefangenes Tier (solange er die nötige Haltung beherrscht). Dabei wird ähnlich dem Erlernen ein Widerstands-SG abgearbeitet: Autorität (AU) gegen SG pro Tätigkeit. Fällt dieser auf null, so ist das Tier gezähmt oder wenigstens an den Charakter gebunden und kann als Begleittier eingesetzt werden. Gelegentlich können auch riskante Vertrauensbeweise versucht werden, die zwar den Fortschritt beschleunigen, jedoch auch mit einem Angriff durch oder einer Flucht des Tiers enden können.Hinweis: In der Zeit des Zähmens muss das Tier gefüttert oder gefangen gehalten werden. | - | - |

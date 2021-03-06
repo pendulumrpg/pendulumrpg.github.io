@@ -55,15 +55,17 @@ module.exports = {
       },  
       {
         title: 'Stress',   // required
-        path: '/stress/',      // optional, link of the title, which should be an absolute path and must exist
+        path: '/stress/',      // optio,,iiiiiinal, link of the title, which should be an absolute path and must exist
         sidebarDepth: 2,    // optional, defaults to 1
       }, 
       {
         title: 'Fähigkeiten',   // required
         path: '/skills/',      // optional, link of the title, which should be an absolute path and must exist
-        sidebarDepth: 2,    // optional, defaults to 1
+        sidebarDepth: 3,    // optional, defaults to 1
         children: [
-          ['/skills/handwerk/','Handwerk']
+            ['/skills/handwerk/','Handwerk'],
+            ['/skills/kompetenzen/','Kompetenzen'],
+            ['/skills/magie/','Magie']
         ]
       } 
     ]
