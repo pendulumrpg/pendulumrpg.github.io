@@ -3,8 +3,8 @@
   "short_name": "Pen&Pendulum",
   "start_url": "/",
   "display": "standalone",
-  "theme_color": "#3eaf7c",
-  "background_color" : "#3eaf7c" ,
+  "theme_color": "#03071E",
+  "background_color" : "#03071E" ,
   "description": "Pen & Pendulum Regeln",
   "icons": [{
     "src": "icons/icon48.png",

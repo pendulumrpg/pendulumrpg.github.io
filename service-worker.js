@@ -27,15 +27,15 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "b3d1449d51235825674aeff13ade54bb"
+    "revision": "acf7ee518de1705bb6ffeba9a0449c72"
   },
   {
     "url": "about/index.html",
-    "revision": "d8658168be83670a539f366eb885b62c"
+    "revision": "b360813ee497a7392d39ff5a85e76c67"
   },
   {
     "url": "aktionen/index.html",
-    "revision": "73904acc17cd00fb861182b9ad54a847"
+    "revision": "41c1a1bcc4f3140143e4676ccaea39f9"
   },
   {
     "url": "assets/css/0.styles.430f5097.css",
@@ -70,72 +70,72 @@ self.__precacheManifest = [
     "revision": "cede8d2c86a1de4af0bc590e1e36a0c8"
   },
   {
-    "url": "assets/js/16.3c176ed5.js",
-    "revision": "be4b81a526a2322de0b3a595c12f6442"
+    "url": "assets/js/16.d250005f.js",
+    "revision": "43d81df66807bea8c24863d68047b119"
   },
   {
-    "url": "assets/js/17.a8734a3b.js",
-    "revision": "ec4ae9d822d84232952ffe73d82822ac"
+    "url": "assets/js/17.5575c1a1.js",
+    "revision": "1518d7d2885892c1075599518fb9ae04"
   },
   {
-    "url": "assets/js/18.579d44be.js",
-    "revision": "73a72c01a62f820ede4cdfedc5335743"
+    "url": "assets/js/18.eb74c6f6.js",
+    "revision": "1b3f47a84972de16bfe2b91c2f1bcbca"
   },
   {
-    "url": "assets/js/19.24a8948a.js",
-    "revision": "4504c367eb04f973d40978f029d97ab1"
+    "url": "assets/js/19.0eb10b65.js",
+    "revision": "6fbe06718e22daffb3d4947907dba98d"
   },
   {
     "url": "assets/js/2.5b4242cf.js",
     "revision": "a7ccad21ff707b0febeacdfeb5d8f706"
   },
   {
-    "url": "assets/js/20.dad94004.js",
-    "revision": "2d68cea9724ea23146359b0c9c5ae7e7"
+    "url": "assets/js/20.99c28ab8.js",
+    "revision": "c54e908af269ee63c4af832c3568b1cb"
   },
   {
-    "url": "assets/js/21.ba9e2a26.js",
-    "revision": "38f8d9a42de726c550a8450d093520c2"
+    "url": "assets/js/21.6fe94525.js",
+    "revision": "e3a1491cd8c7129d6d27ba5b7ebc660b"
   },
   {
-    "url": "assets/js/22.50c30a33.js",
-    "revision": "8cc74305aa33290b3637bf010af7a6f1"
+    "url": "assets/js/22.09e1486b.js",
+    "revision": "2d17e822d2a46343d95f936c355dbab0"
   },
   {
-    "url": "assets/js/23.9174b870.js",
-    "revision": "723ff08f34d1c50647095a8b502f302d"
+    "url": "assets/js/23.c296eecc.js",
+    "revision": "1f2f22e9577510eac31fc821cf4a0d7e"
   },
   {
-    "url": "assets/js/24.91ab3a83.js",
-    "revision": "44336bc5e7b17f2d149df24dfe335088"
+    "url": "assets/js/24.c706b8ab.js",
+    "revision": "316ea97bf83ca955ad69455b8987ee5b"
   },
   {
-    "url": "assets/js/25.0154f843.js",
-    "revision": "418bd9310d2eb0072d02ab9468774278"
+    "url": "assets/js/25.316901fe.js",
+    "revision": "2f9f37a01ee641438476098aa0237144"
   },
   {
-    "url": "assets/js/26.c0cf193d.js",
-    "revision": "19d13cc167db42db2155e33525a352fa"
+    "url": "assets/js/26.72360d5a.js",
+    "revision": "7a415f38a67d3ad230b377a128c13ce1"
   },
   {
-    "url": "assets/js/27.9b32fded.js",
-    "revision": "49cee90fe4e7fb86eecc11a581e0fd07"
+    "url": "assets/js/27.5a71a864.js",
+    "revision": "6d135043db53eca24e49e2f572308709"
   },
   {
-    "url": "assets/js/28.d7f61730.js",
-    "revision": "5231c000c82d3553dc5bced533bead2f"
+    "url": "assets/js/28.bab14861.js",
+    "revision": "8cbf364cc44286c9fb4ef50164e9d8f6"
   },
   {
-    "url": "assets/js/29.7dafb9e0.js",
-    "revision": "99bc33e9a2ac84400a16d3f7b41f1d33"
+    "url": "assets/js/29.08e9668a.js",
+    "revision": "e19bed476df04b553af6a0c82a394fde"
   },
   {
     "url": "assets/js/3.f84cca16.js",
     "revision": "7edcac8a6d265a795d24f27ea3a05a80"
   },
   {
-    "url": "assets/js/30.49de7b72.js",
-    "revision": "b0ebc427a0a4875930577e90e214700d"
+    "url": "assets/js/30.54be583b.js",
+    "revision": "084a4264d5ea52d0b70af1a724f67412"
   },
   {
     "url": "assets/js/31.fea224fe.js",
@@ -170,20 +170,20 @@ self.__precacheManifest = [
     "revision": "871c56ca9a1cd922944420afa49b347b"
   },
   {
-    "url": "assets/js/app.d10b1d81.js",
-    "revision": "db8894d9f2dfb3c66911b13558432d56"
+    "url": "assets/js/app.cfcd4ad0.js",
+    "revision": "5e1e521279cc42392b023cfb35a42621"
   },
   {
     "url": "creation/classes/index.html",
-    "revision": "ba093f19ddef29d4e90700119e1931bd"
+    "revision": "3a90668e511df820ef3688550242be4c"
   },
   {
     "url": "creation/index.html",
-    "revision": "d293a185c678032e766314ccb50adb17"
+    "revision": "5cf2a5240422294ca7183d0c70f2ff2a"
   },
   {
     "url": "creation/races/index.html",
-    "revision": "78c8985fd912dbf79150f0efbd41f9b2"
+    "revision": "f94d1d46967de15933a83e4f9c67a5f1"
   },
   {
     "url": "css/styles.css",
@@ -191,11 +191,11 @@ self.__precacheManifest = [
   },
   {
     "url": "eigenschaften/index.html",
-    "revision": "6477b4c012698f6f8c53d62b7d1004bb"
+    "revision": "4982dc0c54ce9ea5541514640592bd98"
   },
   {
     "url": "gods/index.html",
-    "revision": "31d7be392f6845e34c92d76e47c76f5d"
+    "revision": "4b17a7f0837453436e70fab9ebd6a9d7"
   },
   {
     "url": "icons/icon144.png",
@@ -231,71 +231,71 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "6e5cc6fb119529b3c79e269594b0559f"
+    "revision": "7b52465e66c88c1e4aba8d292de9660d"
   },
   {
     "url": "kunden/index.html",
-    "revision": "a2eb5d71805e100e2dad99c0ed7fd2b3"
+    "revision": "39072c8d94c476b02ccd94badc10eff4"
   },
   {
     "url": "shorts/index.html",
-    "revision": "2bc4cbd052c03fb90647154ddffbc938"
+    "revision": "b5f412d05299460cb96f9ea4137ce0a9"
   },
   {
     "url": "skills/handwerk/index.html",
-    "revision": "8d97c3d57082e37401159c8cf0439398"
+    "revision": "b7321649962b2d299c4507c829924e31"
   },
   {
     "url": "skills/index.html",
-    "revision": "ae273a7f34dc554a6a5687a7ec6f5420"
+    "revision": "6904315d9a27e4edd7a87256f19edbe4"
   },
   {
     "url": "skills/kompetenzen/index.html",
-    "revision": "4e5fb9e73cd3b932fdd767d14bb30fcd"
+    "revision": "aed1fea076934ec0994b81409e0dd865"
   },
   {
     "url": "skills/magie/index.html",
-    "revision": "8336a678799b04b5f2d2390669674291"
+    "revision": "635c47dace183c5818bcc13ae270405c"
   },
   {
     "url": "skills/priest/index.html",
-    "revision": "387d0037eab5c57cf527a3a461839d15"
+    "revision": "f73c563f5b50b3c11ffa77fff31161be"
   },
   {
     "url": "skills/quali/index.html",
-    "revision": "3467157c45d786cf232c9a33f622631d"
+    "revision": "229857c0ba09563c1718357bf5f692e7"
   },
   {
     "url": "stats/attributes/index.html",
-    "revision": "3107d89ff381b00660bd7928ceafb736"
+    "revision": "e819b6c711fa919e998b0669fc97b58e"
   },
   {
     "url": "stats/base/index.html",
-    "revision": "f830f3688a71f386a0c2a44fd50945ab"
+    "revision": "f1c35d374f73cf335f434d35ce4434e6"
   },
   {
     "url": "stats/combat/index.html",
-    "revision": "b393426d9fcbf612f3b99f6222ff547d"
+    "revision": "5da7bfddb1fe07a3539f5034681e9f4d"
   },
   {
     "url": "stats/index.html",
-    "revision": "65e6b081e335480262b639233e1cce5f"
+    "revision": "9a59e4e1705ea67be8c131f334c0ec6f"
   },
   {
     "url": "stats/lifereg/index.html",
-    "revision": "6af0f929cedfcede53cdb12bbff9f846"
+    "revision": "a06ecd6523f9000b31f570346792085e"
   },
   {
     "url": "stats/magic/index.html",
-    "revision": "57021e7b623e600846051f7e92c69324"
+    "revision": "f3d064d64cc018e753a086983dfa797f"
   },
   {
     "url": "stats/skills/index.html",
-    "revision": "40ca338f9ce392f0ed3285c9192e2b8b"
+    "revision": "ab2fdcb31bb81e4d2c59b87e15577fe4"
   },
   {
     "url": "stress/index.html",
-    "revision": "538b8c3ccfa245520b88605efa1d2281"
+    "revision": "052cb3b8fe6e3775be0ad40896327ee2"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
